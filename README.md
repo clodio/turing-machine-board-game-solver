@@ -48,5 +48,5 @@ Run `make doctest` in the root directory. Then you can run the binary `./test.ou
 - [ ] Implement puzzle generation
 - [ ] Use service workers for an offline experience
 - [ ] Algorithm documentation
-- share game
+-  share game deploy
 
